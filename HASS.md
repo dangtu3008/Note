@@ -13,4 +13,4 @@
 
 ### Triển khai Hass như thế nào?
 - Hass có thể chạy trên nhiều thiết bị.
-- [Raspberry Pi]() là một lựa chọn sáng giá (Tiết kiệm năng lượng, cấu hình quá đủ để chạy HASS).
+- [Raspberry Pi](https://github.com/dangtu3008/Note/blob/master/Raspberry-Pi.md) là một lựa chọn sáng giá (Tiết kiệm năng lượng, cấu hình quá đủ để chạy HASS).
