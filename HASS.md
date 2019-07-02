@@ -2,7 +2,7 @@
 
 ### Một số điều cần biết về Home Assistant
 - Thường được gọi là HASS.
-- Hass ra đời 6 năm trước do sự sáng tạo của Paulus Schoutsen.
+- HASS ra đời 6 năm trước do sự sáng tạo của Paulus Schoutsen.
 - Được viết ra bằng Python 3.
 - Tính linh động, tích hợp cao và miễn phí.
 - Hoạt động trong mạng LAN, do đó tính bảo mật thông tin cao.
