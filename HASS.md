@@ -9,13 +9,13 @@
 - Là một Hub.
   + Hub giống như một bộ não trung tâm.
   + Hub nhận lệnh từ các nơi gửi về, xử lý và gửi đi tới các thiết bị đích để thực thi.
-- Có khả năng tích hợp cao với các thiết bị khác (Trên 1000 thiết bị).
-- HASS có thể giúp chúng ta thiết lập những ngữ cảnh phức tạp (Automation).
+- Có khả năng tích hợp cao với các thiết bị khác *Trên 1000 thiết bị*.
+- HASS có thể giúp chúng ta thiết lập những ngữ cảnh phức tạp *Automation*.
 
 ### Triển khai HASS như thế nào?
 - Hass có thể chạy trên nhiều thiết bị.
-- [Raspberry Pi](https://github.com/dangtu3008/Note/blob/master/Raspberry-Pi.md) là một lựa chọn sáng giá (Tiết kiệm năng lượng, cấu hình quá đủ để chạy HASS).
-- Sau khi có Pi thì cần mua thêm các thiết bị ngoại vi và tích hợp vào để sử dụng.
+- [Raspberry Pi](https://github.com/dangtu3008/Note/blob/master/Raspberry-Pi.md) là một lựa chọn sáng giá *Tiết kiệm năng lượng, cấu hình quá đủ để chạy HASS*.
+- Sau khi có Raspberry Pi thì cần mua thêm các thiết bị ngoại vi và tích hợp vào để sử dụng.
 
 ### Về vấn đề bảo mật?
 - Tất cả thông tin đều hoàn toàn bảo mật.
