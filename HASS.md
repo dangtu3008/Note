@@ -14,3 +14,10 @@
 ### Triển khai Hass như thế nào?
 - Hass có thể chạy trên nhiều thiết bị.
 - [Raspberry Pi](https://github.com/dangtu3008/Note/blob/master/Raspberry-Pi.md) là một lựa chọn sáng giá (Tiết kiệm năng lượng, cấu hình quá đủ để chạy HASS).
+- Sau khi có Pi thì cần mua thêm các thiết bị ngoại vi và tích hợp vào để sử dụng.
+
+### Về vấn đề bảo mật?
+- Tất cả thông tin đều hoàn toàn bảo mật.
+- Dữ liệu của bạn không hề đưa ra khỏi nhà của bạn vì HASS hoạt động trong mạng LAN.
+
+>Source: [Home Assistant là gì và tại sao chúng ta nên dùng thử Home Assistant](http://lbminhautomation.com/home-assistant-la-gi.html)
