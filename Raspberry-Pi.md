@@ -13,14 +13,14 @@
   + RetroPie: dùng làm máy chơi game, hỗ trợ nhiều hệ máy khác nhau.
   + Ngoài ra còn có Ubuntu, Windows 10 IoT, RiscOS...
 - Raspberry Pi là một thiết bị đa năng đáng ngạc nhiên với nhiều phần cứng có giá thành rẻ nhưng rất hoàn hảo cho những hệ thống điện tử, những dự án DIY, thiết lập hệ thống tính toán…
-- Bản Raspberry Pi 4 (Model B) là mới nhất hiện tại.
+- Bản Raspberry Pi 4 (*Model B*) là mới nhất hiện tại.
 
 ### Raspberry Pi dùng để làm gì?
 - Đầu xem phim HD giống như Android Box, hỗ trợ KODI đầy đủ.
-- Máy chơi game cầm tay, console, game thùng (giả lập được nhiều hệ máy).
+- Máy chơi game cầm tay, console, game thùng (*Giả lập được nhiều hệ máy*).
 - Cắm máy tải Torrent 24/24.
 - Làm VPN cá nhân.
-- Biến ổ cứng bình thường thành ổ cứng mạng (NAS).
+- Biến ổ cứng bình thường thành ổ cứng mạng (*NAS*).
 - Làm camera an ninh, quan sát từ xa.
 - Máy nghe nhạc, máy đọc sách.
 - Làm thiết bị điều khiển Smart Home, điều khiển mọi thiết bị điện tử trong nhà.
@@ -28,7 +28,7 @@
 - ...
 
 ### Tại sao nên dùng Raspberry Pi?
-- Giá rẻ: chỉ từ 5 USD thôi là bạn đã mua được một Raspberry Pi (phiên bản rút gọn Raspberry Pi Zero).
+- Giá rẻ: chỉ từ 5 USD thôi là bạn đã mua được một Raspberry Pi (*Phiên bản rút gọn Raspberry Pi Zero*).
 - Đơn giản, dễ dùng, tiết kiệm không gian.
 - Tự học lập trình bằng các app đơn giản trên Raspberry Pi.
 - Tiêu thụ rất ít điện năng.
