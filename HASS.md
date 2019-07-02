@@ -20,4 +20,6 @@
 - Tất cả thông tin đều hoàn toàn bảo mật.
 - Dữ liệu của bạn không hề đưa ra khỏi nhà của bạn vì HASS hoạt động trong mạng LAN.
 
+
+
 >Source: [Home Assistant là gì và tại sao chúng ta nên dùng thử Home Assistant](http://lbminhautomation.com/home-assistant-la-gi.html)
